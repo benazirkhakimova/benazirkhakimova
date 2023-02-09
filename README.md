@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Ask me about React, JS, HTML, CSS<br> 📫 How to reach me: benazirkhakimova91@gmail.com<br>⚡Fun fact: I dream of living by the sea 
+🍀The future programmer from Silicon Valley :))<br/>💬 Ask me about React, JS, HTML, CSS<br> 📫 How to reach me: benazirkhakimova91@gmail.com<br>⚡Fun fact: I dream of living by the sea 
 
 
 ## 🌐 Socials: 

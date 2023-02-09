@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### Watch my contribution graph get eaten by the snake🐍
-![snake gif](https://github.com/benazirkhakimova/benazirkhakimova/blob/output/github-contribution-grid-snake.gif)
+![snake svg](https://github.com/benazirkhakimova/benazirkhakimova/blob/output/github-contribution-grid-snake.svg)
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

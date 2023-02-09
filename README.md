@@ -18,5 +18,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Snake animation](https://github.com/benazirkhakimova/benazirkhakimova/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/benazirkhakimova/benazirkhakimova/blob/output/github-contribution-grid-snake.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

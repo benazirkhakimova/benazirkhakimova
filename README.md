@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials: 
-<a href="mailto:contatorafaballerini@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='email'/></a>
+<a href="mailto:benazirkhakimova91@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='email'/></a>
 <a href="https://www.linkedin.com/in/benazir-khakimova-161830238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://t.me/i_am_benazir"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
 <a href="https://www.instagram.com/benazir.khakimova/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
